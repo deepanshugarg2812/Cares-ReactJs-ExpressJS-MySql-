@@ -1,0 +1,14 @@
+.nav-item1{
+    display:block;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    padding:15px;
+    background-color:darkcyan;
+    color:white;
+}
+
+.nav-item1:hover{
+    text-decoration:none;
+    color: black;
+}
